@@ -1,16 +1,27 @@
-### Hi there 👋
+HELLO THERE! and Welcome to my Profile. My name is Ronaldo Isaacs.
+Im currently studying Cyber Security Degree in university, and i will be posting my work and personal passion projects.
+incuding some basic c++ excercies.
 
-<!--
-**Ronaldo-Isaacs/Ronaldo-Isaacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+assignment will be posted however will only be public once ive completed them, would want anyone being cheeky haha.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently working on:
+
+- My Degree
+
+### Completed works
+
+### Personal works
+
+### Intrests
+- Starwars
+- Dungeon and Dragons
+- C++
+- Java
+- Security
+
+
+
+
+
